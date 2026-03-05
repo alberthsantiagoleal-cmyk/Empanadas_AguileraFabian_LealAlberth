@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "pollo queso",
+        "precio": 2500.0,
+        "ingredientes": "pollo y queso",
+        "disponible": "si"
+    },
+    {
+        "nombre": "hawaiana",
+        "precio": 3000.0,
+        "ingredientes": "pi\u00f1a, queso, jamon",
+        "disponible": "si"
+    }
+]

@@ -13,11 +13,11 @@ def mostrar_menu(datos):
         print("""
 ===== MENU EMPANADAS =====
 
-Listar empanadas
-Agregar empanada
-Editar empanada
-Eliminar empanada
-Salir
+1. Listar empanadas
+2. Agregar empanada
+3. Editar empanada
+4. Eliminar empanada
+5. Salir
 """)
 
         opcion = input("Seleccione una opcion: ")
